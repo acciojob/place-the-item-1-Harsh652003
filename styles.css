@@ -3,7 +3,7 @@
     padding: 0px;
 }
 
-#holder{
+.holder{
     width:100vw ;
     height: 500px;
     display: flex;
