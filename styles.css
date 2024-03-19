@@ -21,36 +21,16 @@
 
 #eg1{
     background-color: red;
-    order: 6;
+    order: 3;
+	
 }
 
 #eg2{
     background-color: blue;
-    order: 7;
+    order: 2;
 }
 
 #eg3{
     background-color: green;
     order: 1;
 }
-
-#eg4{
-    background-color: green;
-    order: 2;
-}
-
-#eg5{
-    background-color: green;
-    order: 3;
-}
-
-#eg6{
-    background-color: green;
-    order: 4;
-}
-
-#eg7{
-    background-color: green;
-    order: 5;
-}
-/* Your CSS Code here. */
